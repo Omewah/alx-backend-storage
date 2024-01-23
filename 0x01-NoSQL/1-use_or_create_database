@@ -1,2 +1,2 @@
-// a script that creates or uses the database my_db
+// creates a db in a mongodb server
 use my_db
